@@ -40,3 +40,4 @@ nav:
           - A.5.16 – Monitoramento de Atividades: iso27001/controles/A.5.16-monitoramento.md
   - Técnicos:
       - Hardening Windows: tecnicos/hardening-windows.md
+  - Contato: contato.md
