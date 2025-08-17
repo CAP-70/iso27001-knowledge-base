@@ -28,15 +28,31 @@ O que mudou — e muito — foi o **modelo de ataque e de recompensa**.
 
 Resultado: **mais ataques, mais rápido, mais profissionais**.
 
-## 3) O que isso significa na prática (ISO 27001)
-A ISO 27001 **não inventa moda**: ela organiza o que já funciona com **governança + risco + melhoria contínua**.  
-O que muda é **como aplicamos** os controles:
+## 3) O que isso significa na prática: governança que orquestra o que já existe
 
-- **Risco e SoA vivos**: revisar ameaças e priorizar controles com base no negócio (não checklist).  
-- **Novos temas da revisão 2022**: uso de **serviços em nuvem**, **inteligência de ameaças**, prevenção de **exfiltração** e **monitoramento contínuo** ganham destaque.  
-- **Evidência > papel**: logs centralizados, métricas (MTTD/MTTR), testes periódicos e *runbooks* versionados.  
-- **Fornecedores**: due diligence e monitoramento contínuo (contratos, segurança de integrações, resposta a incidentes compartilhada).  
-- **Pessoas e operações**: MFA consistente, *least privilege*, segregação de funções, gestão de mudanças, *hardening* e vulnerabilidades com ciclo previsível.
+**Segurança não é novidade.** Firewalls estão aí desde os anos 90; antivírus, desde os 80; IDS/IPS, VPNs, backups, criptografia e MFA também não nasceram ontem. O problema recorrente não é a _falta_ de controles técnicos, e sim a _ausência de governança_ para **orquestrar o que já existe**, ligar isso a risco e transformar em **evidências consistentes**.
+
+!!! note "Uma advertência antiga (1998)"
+    Em **19 de maio de 1998**, o coletivo de pesquisadores **L0pht Heavy Industries** testemunhou no Senado dos EUA, na audiência “_Weak Computer Security in Government: Is the Public at Risk?_”. Questionados pelo senador **Fred Thompson**, disseram que, em tese, **poderiam tornar a internet inutilizável em ~30 minutos** — um alerta sobre fragilidades sistêmicas e a negligência institucional com segurança. Foi um dos primeiros debates amplos sobre cibersegurança no Congresso e, apesar da repercussão, **muita coisa ficou por fazer**. :contentReference[oaicite:0]{index=0}
+
+### Onde a governança geralmente falha
+- **Contexto e escopo do SGSI** não formalizados (cláusula 4).  
+- **Política, papéis e responsabilidades** difusos (cláusula 5).  
+- **Risco “vivo”** inexistente: critérios, registro e **SoA** não versionados (cláusula 6).  
+- **Gestão documental e competências** pouco tratadas (cláusula 7).  
+- **Processos operacionais** (mudanças, terceiros, rotina) sem rito (cláusula 8).  
+- **Medição e verificação** (indicadores, auditoria interna, análise crítica) frágeis (cláusula 9).  
+- **Correção e melhoria contínua** sem lastro de lições aprendidas (cláusula 10).
+
+### Como “costurar” o que já existe com ISO 27001
+- **Risco → SoA → Controles**: ligar ativos/ameaças a controles **relevantes**, com justificativas e plano de tratamento.  
+- **Donos por controle + RACI**: responsabilização explícita por operação e evidências.  
+- **Evidência objetiva**: “o quê/de onde/quem/periodicidade” para cada controle; logs centralizados ajudam.  
+- **Operação previsível**: mudanças, vulnerabilidades, backup/restore testado, resposta a incidentes e gestão de fornecedores com critérios.  
+- **Medição periódica**: KPIs/KRIs (p.ex., % controles com dono, % evidências válidas, prazos de correção), auditoria interna e análise crítica pela direção.
+
+> Em síntese: **não falta tecnologia**, falta **governança** para priorizar, integrar e **provar** (evidenciar) que os controles funcionam. A ISO 27001 organiza justamente isso — sem reinventar roda.
+
 
 ## 4) Checklist rápido (para você se situar)
 - [ ] **Risco atualizado** e SoA refletindo realidade (cloud, SaaS, terceiros).  
