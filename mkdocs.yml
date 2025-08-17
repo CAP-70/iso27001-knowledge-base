@@ -1,5 +1,9 @@
 site_name: ISO 27001 Knowledge Base
 site_description: Conhecimento prático sobre implementação e auditoria da ISO/IEC 27001:2022
+site_url: https://cap-70.github.io/iso27001-knowledge-base/
+repo_url: https://github.com/CAP-70/iso27001-knowledge-base
+repo_name: CAP-70/iso27001-knowledge-base
+edit_uri: edit/main/docs/
 theme:
   name: material
   language: pt-BR
@@ -8,6 +12,15 @@ theme:
     - navigation.sections
     - content.code.copy
     - toc.integrate
+  logo: assets/logo.png        # (opcional – se subir um logo)
+  favicon: assets/favicon.png  # (opcional – se subir um favicon)
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CAP-70
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/
+
 markdown_extensions:
   - admonition
   - toc:
