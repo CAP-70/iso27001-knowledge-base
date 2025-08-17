@@ -1,1 +1,29 @@
-
+site_name: ISO 27001 Knowledge Base
+site_description: Conhecimento prático sobre implementação e auditoria da ISO/IEC 27001:2022
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - toc.integrate
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - def_list
+  - attr_list
+  - md_in_html
+nav:
+  - Início: index.md
+  - Artigos:
+      - posts/boas-vindas.md
+  - ISO 27001:
+      - Visão geral: iso27001/overview.md
+      - Auditoria: iso27001/auditoria.md
+      - Controles:
+          - A.5.16 – Monitoramento de Atividades: iso27001/controles/A.5.16-monitoramento.md
+  - Técnicos:
+      - Hardening Windows: tecnicos/hardening-windows.md
