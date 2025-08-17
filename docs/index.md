@@ -6,7 +6,8 @@
     Eu apoio organizações em **implementação da ISO 27001** (escopo, riscos, SoA (Declaração de Aplicabilidade, controles) e em **auditorias internas/pré-certificação**.  
     👉 [Fale comigo pela página de Contato](/contato/).
 
-!!! Nota - > **Segurança não é novidade.** Firewalls estão por aí desde os anos 90; antivírus, desde os 80; IDS/IPS surgiram nos 90; **backups, criptografia, VPNs e tokens de múltiplo fator** existem há décadas. O que mudou foi **o incentivo**: antes muitos ataques eram por fama ou prova de habilidade; hoje são **negócios criativos** (ransomware, vazamento para extorsão, fraudes como serviço). Este site foca no essencial: **controles que funcionam** e **evidências** que comprovam a maturidade da companhia.
+!!! Nota "Segurança não é novidade."
+    Firewalls estão por aí desde os anos 90; antivírus, desde os 80; IDS/IPS surgiram nos 90; **backups, criptografia, VPNs e tokens de múltiplo fator** existem há décadas. O que mudou foi **o incentivo**: antes muitos         ataques eram por fama ou prova de habilidade; hoje são **negócios criativos** (ransomware, vazamento para extorsão, fraudes como serviço). Este site foca no essencial: **controles que funcionam** e **evidências** que       comprovam a maturidade da companhia.
 
 ---
 
