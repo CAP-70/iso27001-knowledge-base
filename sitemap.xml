@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://cap-70.github.io/iso27001-knowledge-base/</loc>
+         <lastmod>2025-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://cap-70.github.io/iso27001-knowledge-base/iso27001/auditoria/</loc>
+         <lastmod>2025-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://cap-70.github.io/iso27001-knowledge-base/iso27001/overview/</loc>
+         <lastmod>2025-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://cap-70.github.io/iso27001-knowledge-base/iso27001/controles/A.5.16-monitoramento/</loc>
+         <lastmod>2025-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://cap-70.github.io/iso27001-knowledge-base/posts/boas-vindas/</loc>
+         <lastmod>2025-08-17</lastmod>
+    </url>
+    <url>
+         <loc>https://cap-70.github.io/iso27001-knowledge-base/tecnicos/hardening-windows/</loc>
+         <lastmod>2025-08-17</lastmod>
+    </url>
 </urlset>
