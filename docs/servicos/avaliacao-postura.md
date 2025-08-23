@@ -63,4 +63,4 @@ Baseada em frameworks reconhecidos: **NIST CSF**, **ISO 27001**, **CIS Controls*
 ## Próximos passos
 👉 Descubra se sua empresa está pronta para enfrentar os desafios da cibersegurança.  
 
-[Solicitar avaliação](/contato/){ .md-button .md-button--primary }
+[Solicitar avaliação](/iso27001-knowledge-base/contato/contato/){ .md-button .md-button--primary }
