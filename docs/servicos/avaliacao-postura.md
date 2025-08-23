@@ -30,7 +30,21 @@ Nossa análise cobre áreas-chave da cibersegurança:
 - **Conscientização e Treinamento** – capacitação e simulações de phishing.  
 
 ---
+## Como funciona
 
+1. **Descoberta (autoavaliação)**
+   Enviamos um **questionário diagnóstico** para a organização refletir sobre sua postura atual (governança, processos e controles). As respostas ajudam a **delimitar escopo** e orientar **perguntas mais profundas** nas entrevistas.
+
+2. **Imersão (entrevistas)**
+   Nossos especialistas conversam com **donos de processo e áreas técnicas** para **validar o informado**, entender o dia a dia e **explorar pontos fortes e lacunas**. Quando necessário, pedimos **amostras de evidências** (relatórios, registros, configurações).
+
+3. **Diagnóstico (análise e validação)**
+   Consolidamos as informações e **cruzamos com frameworks** (ISO 27001, NIST CSF, CIS, MITRE ATT&CK) para compor uma **avaliação de maturidade**. Dessa análise sai um **roadmap priorizado** (curto, médio e longo prazo) com recomendações objetivas e verificáveis.
+
+4. **Plano de ação (relatório e apresentação)**
+   Entregamos um **relatório executivo** (riscos, impacto e prioridades) e um **relatório técnico** (detalhes e evidências). Finalizamos com **apresentação para time técnico e C-level**, destacando **quick wins 30/60/90 dias** e próximos passos.
+
+---
 ## Metodologia
 Baseada em frameworks reconhecidos: **NIST CSF**, **ISO 27001**, **CIS Controls** e **MITRE ATT&CK**.
 
@@ -49,14 +63,6 @@ Baseada em frameworks reconhecidos: **NIST CSF**, **ISO 27001**, **CIS Controls*
 - Matriz de riscos e maturidade.  
 - Roadmap de melhorias priorizado.  
 - Sessão de apresentação e discussão dos resultados.  
-
----
-
-## Por que escolher nosso MSSP?
-- Experiência em **ISO 27001 e ISO 27701**.  
-- Equipe especializada em **Governança, Red Team e Blue Team**.  
-- Integração com serviços como SOC, gestão de vulnerabilidades e resposta a incidentes.  
-- Foco em entregar **valor estratégico**, não apenas checklists.  
 
 ---
 
