@@ -10,7 +10,7 @@
       
       
       
-        <link rel="canonical" href="https://cap-70.github.io/iso27001-knowledge-base/posts/2025-08-17-seguranca-nao-e-nova/">
+        <link rel="canonical" href="https://cap-70.github.io/iso27001-knowledge-base/servicos/avaliacao-postura/">
       
       
       
@@ -20,7 +20,7 @@
     
     
       
-        <title>Segurança não é nova — o que mudou foi o incentivo - ISO 27001 Knowledge Base</title>
+        <title>Avaliação de Postura de Segurança - ISO 27001 Knowledge Base</title>
       
     
     
@@ -62,7 +62,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#1-linha-do-tempo-relampago-meios-classicos" class="md-skip">
+        <a href="#avaliacao-de-postura-de-seguranca" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -95,7 +95,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Segurança não é nova — o que mudou foi o incentivo
+              Avaliação de Postura de Segurança
             
           </span>
         </div>
@@ -201,7 +201,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../boas-vindas/" class="md-tabs__link">
+        <a href="../../posts/boas-vindas/" class="md-tabs__link">
           
   
   
@@ -390,7 +390,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../boas-vindas/" class="md-nav__link">
+      <a href="../../posts/boas-vindas/" class="md-nav__link">
         
   
   
@@ -697,156 +697,70 @@
   
 
 
-  <h1>Segurança não é nova — o que mudou foi o incentivo</h1>
-
-<p>Quando alguém diz “segurança é coisa nova”, vale lembrar: <strong>não é</strong>.<br />
-Os <strong>firewalls</strong> ganharam tração nos anos 90; <strong>antivírus</strong> já existiam nos 80; <strong>IDS/IPS</strong> vieram nos 90; <strong>VPNs</strong> corporativas (IPsec/PPTP) também dos 90; <strong>MFA com tokens</strong> é de décadas atrás; <strong>backups, criptografia e trilhas de auditoria</strong> vêm desde a era dos mainframes. O alicerce é antigo.</p>
-<p>O que mudou — e muito — foi o <strong>modelo de ataque e de recompensa</strong>.</p>
-<h2 id="1-linha-do-tempo-relampago-meios-classicos">1) Linha do tempo relâmpago (meios clássicos)<a class="headerlink" href="#1-linha-do-tempo-relampago-meios-classicos" title="Permanent link">&para;</a></h2>
-<ul>
-<li><strong>Antivírus (anos 80)</strong>: assinaturas contra malware conhecido.  </li>
-<li><strong>Firewalls (anos 90)</strong>: filtragem/estado, segmentação de rede.  </li>
-<li><strong>IDS/IPS (anos 90)</strong>: detecção de anomalias/assinaturas em rede/host.  </li>
-<li><strong>VPNs (anos 90)</strong>: túneis seguros para acesso remoto.  </li>
-<li><strong>MFA</strong>: tokens/hard/soft (muito antes de apps modernos).  </li>
-<li><strong>Backups &amp; DR</strong>: rotina de sobrevivência desde sempre.  </li>
-<li><strong>Criptografia</strong>: de DES/PGP aos padrões atuais.  </li>
-<li><strong>Logs &amp; auditoria</strong>: trilhas formais em sistemas críticos há décadas.</li>
-</ul>
-<h2 id="2-o-que-realmente-mudou">2) O que realmente mudou<a class="headerlink" href="#2-o-que-realmente-mudou" title="Permanent link">&para;</a></h2>
-<ul>
-<li><strong>Motivação</strong>: de “status” técnico para <strong>monetização</strong> direta.  </li>
-<li><strong>Modelos de crime-as-a-service</strong>: <em>phishing-as-a-service</em>, <em>ransomware-as-a-service</em>, <em>botnets-as-a-service</em>.  </li>
-<li><strong>Mercado paralelo</strong>: <strong>brokers de acesso inicial</strong>, venda de dados/vazamentos, revenda de credenciais.  </li>
-<li><strong>Superfície</strong>: cloud, SaaS, integrações e terceiros multiplicaram os pontos de risco.  </li>
-<li><strong>Automação</strong>: kits prontos, <em>playbooks</em> ofensivos e IA barateiam o ataque.</li>
-</ul>
-<p>Resultado: <strong>mais ataques, mais rápido, mais profissionais</strong>.</p>
-<h2 id="3-o-que-isso-significa-na-pratica-governanca-que-orquestra-o-que-ja-existe">3) O que isso significa na prática: governança que orquestra o que já existe<a class="headerlink" href="#3-o-que-isso-significa-na-pratica-governanca-que-orquestra-o-que-ja-existe" title="Permanent link">&para;</a></h2>
-<p><strong>Segurança não é novidade.</strong> Firewalls estão aí desde os anos 90; antivírus, desde os 80; IDS/IPS, VPNs, backups, criptografia e MFA também não nasceram ontem. O problema recorrente não é a <em>falta</em> de controles técnicos, e sim a <em>ausência de governança</em> para <strong>orquestrar o que já existe</strong>, ligar isso a risco e transformar em <strong>evidências consistentes</strong>.</p>
-<div class="admonition note">
-<p class="admonition-title">Uma advertência antiga (1998)</p>
-<p>Em <strong>19 de maio de 1998</strong>, o coletivo de pesquisadores <strong>L0pht Heavy Industries</strong> testemunhou no Senado dos EUA, na audiência “<em>Weak Computer Security in Government: Is the Public at Risk?</em>”. Questionados pelo senador <strong>Fred Thompson</strong>, disseram que, em tese, <strong>poderiam tornar a internet inutilizável em ~30 minutos</strong> — um alerta sobre fragilidades sistêmicas e a negligência institucional com segurança. Foi um dos primeiros debates amplos sobre cibersegurança no Congresso e, apesar da repercussão, <strong>muita coisa ficou por fazer</strong>. :contentReference[oaicite:0]{index=0}</p>
-</div>
-<h3 id="onde-a-governanca-geralmente-falha">Onde a governança geralmente falha<a class="headerlink" href="#onde-a-governanca-geralmente-falha" title="Permanent link">&para;</a></h3>
-<ul>
-<li><strong>Contexto e escopo do SGSI</strong> não formalizados (cláusula 4).  </li>
-<li><strong>Política, papéis e responsabilidades</strong> difusos (cláusula 5).  </li>
-<li><strong>Risco “vivo”</strong> inexistente: critérios, registro e <strong>SoA</strong> não versionados (cláusula 6).  </li>
-<li><strong>Gestão documental e competências</strong> pouco tratadas (cláusula 7).  </li>
-<li><strong>Processos operacionais</strong> (mudanças, terceiros, rotina) sem rito (cláusula 8).  </li>
-<li><strong>Medição e verificação</strong> (indicadores, auditoria interna, análise crítica) frágeis (cláusula 9).  </li>
-<li><strong>Correção e melhoria contínua</strong> sem lastro de lições aprendidas (cláusula 10).</li>
-</ul>
-<h3 id="como-costurar-o-que-ja-existe-com-iso-27001">Como “costurar” o que já existe com ISO 27001<a class="headerlink" href="#como-costurar-o-que-ja-existe-com-iso-27001" title="Permanent link">&para;</a></h3>
-<ul>
-<li><strong>Risco → SoA → Controles</strong>: ligar ativos/ameaças a controles <strong>relevantes</strong>, com justificativas e plano de tratamento.  </li>
-<li><strong>Donos por controle + RACI</strong>: responsabilização explícita por operação e evidências.  </li>
-<li><strong>Evidência objetiva</strong>: “o quê/de onde/quem/periodicidade” para cada controle; logs centralizados ajudam.  </li>
-<li><strong>Operação previsível</strong>: mudanças, vulnerabilidades, backup/restore testado, resposta a incidentes e gestão de fornecedores com critérios.  </li>
-<li><strong>Medição periódica</strong>: KPIs/KRIs (p.ex., % controles com dono, % evidências válidas, prazos de correção), auditoria interna e análise crítica pela direção.</li>
-</ul>
+<h1 id="avaliacao-de-postura-de-seguranca">Avaliação de Postura de Segurança<a class="headerlink" href="#avaliacao-de-postura-de-seguranca" title="Permanent link">&para;</a></h1>
 <blockquote>
-<p>Em síntese: <strong>não falta tecnologia</strong>, falta <strong>governança</strong> para priorizar, integrar e <strong>provar</strong> (evidenciar) que os controles funcionam. A ISO 27001 organiza justamente isso — sem reinventar roda.</p>
+<p><strong>Sua empresa está realmente preparada contra ciberataques?</strong></p>
 </blockquote>
-<h2 id="4-checklist-rapido-para-voce-se-situar">4) Checklist rápido (para você se situar)<a class="headerlink" href="#4-checklist-rapido-para-voce-se-situar" title="Permanent link">&para;</a></h2>
+<p>A <strong>Avaliação de Postura de Segurança</strong> é um serviço estratégico que fornece uma visão clara e objetiva do quão madura está a sua organização em relação à cibersegurança. Nossa equipe analisa controles técnicos, processos e governança, identificando vulnerabilidades e entregando um roadmap de melhorias para elevar a proteção contra ameaças digitais.</p>
+<p><a class="md-button md-button--primary" href="/contato/">Solicitar avaliação</a></p>
+<hr />
+<h2 id="por-que-sua-empresa-precisa-deste-servico">Por que sua empresa precisa deste serviço?<a class="headerlink" href="#por-que-sua-empresa-precisa-deste-servico" title="Permanent link">&para;</a></h2>
 <ul>
-<li>[ ] <strong>Risco atualizado</strong> e SoA refletindo realidade (cloud, SaaS, terceiros).  </li>
-<li>[ ] <strong>MFA e segmentação</strong> aplicados onde dói (admin, remoto, críticos).  </li>
-<li>[ ] <strong>Logs centralizados</strong> + casos de uso que realmente detectam.  </li>
-<li>[ ] <strong>Backups testados</strong> (RTO/RPO claros, restaurações recentes).  </li>
-<li>[ ] <strong>Gestão de vulnerabilidades</strong> com métricas de tempo de correção.  </li>
-<li>[ ] <strong>Plano de resposta a incidentes</strong> com exercícios práticos.</li>
+<li>Visibilidade real sobre riscos e lacunas de segurança.  </li>
+<li>Priorização dos pontos críticos que exigem ação imediata.  </li>
+<li>Roadmap estratégico para curto, médio e longo prazo.  </li>
+<li>Suporte à conformidade com <strong>ISO 27001</strong>, <strong>LGPD</strong>, <strong>SOC 2</strong>, <strong>CIS</strong> e <strong>NIST</strong>.  </li>
+<li>Redução de riscos financeiros e reputacionais.  </li>
 </ul>
-<blockquote>
-<p><strong>Resumo:</strong> segurança não é novidade; o <strong>incentivo do atacante</strong> é.<br />
-A resposta continua sendo <strong>governança + controles sólidos + evidências confiáveis</strong> — é isso que a ISO 27001 pede desde sempre.</p>
-</blockquote>
-<p>👉 Precisa de apoio para organizar <strong>risco</strong>, <strong>SoA</strong> e <strong>evidências</strong>? Fale comigo pela <strong><a href="/contato/">página de Contato</a></strong>.</p>
-<div class="tl">
-
-  <div class="tl__item tl__item--top">
-    <div class="tl__card">
-      <strong>Anos 80 — Antivírus</strong><br>
-      Assinaturas contra malware conhecido; base do endpoint desde então.
-    </div>
-    <span class="tl__dot"></span>
-    <div class="tl__meta">1980s</div>
-  </div>
-
-  <div class="tl__item tl__item--bottom">
-    <div class="tl__card">
-      <strong>Anos 90 — Firewalls</strong><br>
-      Filtragem/estado e segmentação de rede viram padrão corporativo.
-    </div>
-    <span class="tl__dot"></span>
-    <div class="tl__meta">1990s</div>
-  </div>
-
-  <div class="tl__item tl__item--top">
-    <div class="tl__card">
-      <strong>Anos 90 — IDS/IPS</strong><br>
-      Detecção por assinaturas e anomalias em rede/host.
-    </div>
-    <span class="tl__dot"></span>
-    <div class="tl__meta">1990s</div>
-  </div>
-
-  <div class="tl__item tl__item--bottom">
-    <div class="tl__card">
-      <strong>Anos 90 — VPNs</strong><br>
-      Túneis IPsec/SSL para acesso remoto seguro.
-    </div>
-    <span class="tl__dot"></span>
-    <div class="tl__meta">1990s</div>
-  </div>
-
-  <div class="tl__item tl__item--top">
-    <div class="tl__card">
-      <strong>Anos 2000 — MFA</strong><br>
-      Tokens físicos/soft e, depois, apps; reforço a contas críticas.
-    </div>
-    <span class="tl__dot"></span>
-    <div class="tl__meta">2000s</div>
-  </div>
-
-  <div class="tl__item tl__item--bottom">
-    <div class="tl__card">
-      <strong>Sempre — Backups & Criptografia</strong><br>
-      Restauração testada + proteção de dados em repouso e trânsito.
-    </div>
-    <span class="tl__dot"></span>
-    <div class="tl__meta">base</div>
-  </div>
-
-  <div class="tl__item tl__item--top">
-    <div class="tl__card">
-      <strong>2010s — Cloud & DevOps</strong><br>
-      Superfície expandida, controles as-a-service e automação.
-    </div>
-    <span class="tl__dot"></span>
-    <div class="tl__meta">2010+</div>
-  </div>
-
-  <div class="tl__item tl__item--bottom">
-    <div class="tl__card">
-      <strong>2016+ — Crime como serviço</strong><br>
-      Ransomware-as-a-service, brokers de acesso e extorsão de dados.
-    </div>
-    <span class="tl__dot"></span>
-    <div class="tl__meta">2016+</div>
-  </div>
-
-</div>
+<hr />
+<h2 id="o-que-avaliamos">O que avaliamos?<a class="headerlink" href="#o-que-avaliamos" title="Permanent link">&para;</a></h2>
+<p>Nossa análise cobre áreas-chave da cibersegurança:</p>
+<ul>
+<li><strong>Governança e Políticas</strong> – normas, papéis e responsabilidades.  </li>
+<li><strong>Identidade e Acessos</strong> – gestão de privilégios, MFA, autenticação.  </li>
+<li><strong>Proteção de Endpoints e Redes</strong> – firewalls, EDR, segmentação, monitoramento.  </li>
+<li><strong>Gestão de Vulnerabilidades</strong> – patch management e varreduras regulares.  </li>
+<li><strong>Resiliência e Continuidade</strong> – backup, recuperação de desastres, testes.  </li>
+<li><strong>Monitoramento e Resposta a Incidentes</strong> – SOC, SIEM, planos de resposta.  </li>
+<li><strong>Fornecedores e Terceiros</strong> – due diligence, riscos de supply chain.  </li>
+<li><strong>Conscientização e Treinamento</strong> – capacitação e simulações de phishing.  </li>
+</ul>
+<hr />
+<h2 id="metodologia">Metodologia<a class="headerlink" href="#metodologia" title="Permanent link">&para;</a></h2>
+<p>Baseada em frameworks reconhecidos: <strong>NIST CSF</strong>, <strong>ISO 27001</strong>, <strong>CIS Controls</strong> e <strong>MITRE ATT&amp;CK</strong>.</p>
+<p><strong>Etapas do processo:</strong>
+1. <strong>Descoberta</strong> – entrevistas e questionários com stakeholders.<br />
+2. <strong>Coleta de Evidências</strong> – análise documental e técnica.<br />
+3. <strong>Classificação de Maturidade</strong> – <em>scoring</em> (Inicial, Básico, Intermediário, Avançado).<br />
+4. <strong>Relatórios</strong> – visão executiva e técnica com recomendações claras.<br />
+5. <strong>Workshop Final</strong> – apresentação dos resultados e roadmap.  </p>
+<hr />
+<h2 id="entregaveis">Entregáveis<a class="headerlink" href="#entregaveis" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Relatório executivo para a diretoria.  </li>
+<li>Relatório técnico detalhado com recomendações práticas.  </li>
+<li>Matriz de riscos e maturidade.  </li>
+<li>Roadmap de melhorias priorizado.  </li>
+<li>Sessão de apresentação e discussão dos resultados.  </li>
+</ul>
+<hr />
+<h2 id="por-que-escolher-nosso-mssp">Por que escolher nosso MSSP?<a class="headerlink" href="#por-que-escolher-nosso-mssp" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Experiência em <strong>ISO 27001 e ISO 27701</strong>.  </li>
+<li>Equipe especializada em <strong>Governança, Red Team e Blue Team</strong>.  </li>
+<li>Integração com serviços como SOC, gestão de vulnerabilidades e resposta a incidentes.  </li>
+<li>Foco em entregar <strong>valor estratégico</strong>, não apenas checklists.  </li>
+</ul>
+<hr />
+<h2 id="proximos-passos">Próximos passos<a class="headerlink" href="#proximos-passos" title="Permanent link">&para;</a></h2>
+<p>👉 Descubra se sua empresa está pronta para enfrentar os desafios da cibersegurança.  </p>
+<p><a class="md-button md-button--primary" href="/contato/">Solicitar avaliação</a></p>
 
 
 
 
 
 
-
-  
-  
 
 
 

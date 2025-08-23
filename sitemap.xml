@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cap-70.github.io/iso27001-knowledge-base/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-08-23</lastmod>
     </url>
     <url>
          <loc>https://cap-70.github.io/iso27001-knowledge-base/contato/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-08-23</lastmod>
     </url>
     <url>
          <loc>https://cap-70.github.io/iso27001-knowledge-base/iso27001/auditoria/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-08-23</lastmod>
     </url>
     <url>
          <loc>https://cap-70.github.io/iso27001-knowledge-base/iso27001/overview/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-08-23</lastmod>
     </url>
     <url>
          <loc>https://cap-70.github.io/iso27001-knowledge-base/iso27001/controles/A.5.16-monitoramento/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-08-23</lastmod>
     </url>
     <url>
          <loc>https://cap-70.github.io/iso27001-knowledge-base/posts/2025-08-17-seguranca-nao-e-nova/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-08-23</lastmod>
     </url>
     <url>
          <loc>https://cap-70.github.io/iso27001-knowledge-base/posts/boas-vindas/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-08-23</lastmod>
+    </url>
+    <url>
+         <loc>https://cap-70.github.io/iso27001-knowledge-base/servicos/avaliacao-postura/</loc>
+         <lastmod>2025-08-23</lastmod>
     </url>
     <url>
          <loc>https://cap-70.github.io/iso27001-knowledge-base/tecnicos/hardening-windows/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <lastmod>2025-08-23</lastmod>
     </url>
 </urlset>
