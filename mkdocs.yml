@@ -29,6 +29,7 @@ markdown_extensions:
   - def_list
   - attr_list
   - md_in_html
+  
 nav:
   - Início: index.md
   - Artigos:
@@ -40,4 +41,6 @@ nav:
           - A.5.16 – Monitoramento de Atividades: iso27001/controles/A.5.16-monitoramento.md
   - Técnicos:
       - Hardening Windows: tecnicos/hardening-windows.md
+  - Serviços:
+      - Avaliação de Postura de Segurança: servicos/avaliacao-postura.md
   - Contato: contato.md
