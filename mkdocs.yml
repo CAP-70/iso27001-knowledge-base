@@ -34,6 +34,7 @@ nav:
   - Início: index.md
   - Artigos:
       - posts/boas-vindas.md
+      - Segurança não é nova — o que mudou foi o incentivo: posts/2025-08-17-seguranca-nao-e-nova.md
   - ISO 27001:
       - Visão geral: iso27001/overview.md
       - Oito erros que reprovam um SGSI: iso27001/oito-erros.md
