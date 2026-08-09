@@ -4,6 +4,7 @@ site_url: https://cap-70.github.io/iso27001-knowledge-base/
 repo_url: https://github.com/CAP-70/iso27001-knowledge-base
 repo_name: CAP-70/iso27001-knowledge-base
 edit_uri: edit/main/docs/
+
 theme:
   name: material
   language: pt-BR
@@ -12,14 +13,13 @@ theme:
     - navigation.sections
     - content.code.copy
     - toc.integrate
-  logo: assets/logo.png        # (opcional – se subir um logo)
-  favicon: assets/favicon.png  # (opcional – se subir um favicon)
+  # logo: assets/logo.png
+  # favicon: assets/favicon.png
+
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/CAP-70
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/
 
 markdown_extensions:
   - admonition
@@ -29,7 +29,7 @@ markdown_extensions:
   - def_list
   - attr_list
   - md_in_html
-  
+
 nav:
   - Início: index.md
   - Artigos:
