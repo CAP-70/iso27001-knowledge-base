@@ -4,7 +4,7 @@
 
 A **Avaliação de Postura de Segurança** é um serviço estratégico que fornece uma visão clara e objetiva do quão madura está a sua organização em relação à cibersegurança. Nossa equipe analisa controles técnicos, processos e governança, identificando vulnerabilidades e entregando um roadmap de melhorias para elevar a proteção contra ameaças digitais.
 
-[Solicitar avaliação](/contato/){ .md-button .md-button--primary }
+[Solicitar avaliação](../contato.md){ .md-button .md-button--primary }
 
 ---
 
