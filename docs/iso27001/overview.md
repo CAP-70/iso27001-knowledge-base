@@ -46,6 +46,17 @@ A cláusula 4 tem quatro subitens. Ela pede que você entenda o ambiente antes d
 
     Um SGSI eficaz cobrindo 60% dos processos vale mais que um SGSI frágil cobrindo 100%. Você amplia o escopo nos ciclos anuais de manutenção.
 
+!!! example "O adversário também é parte interessada"
+    A cláusula 4.2 pede que você determine as partes interessadas e os requisitos de cada uma.
+
+    Quase toda organização lista clientes, reguladores, acionistas e colaboradores.
+
+    Quase nenhuma lista o atacante.
+
+    O atacante tem interesse direto na sua informação. Ele tem requisitos muito claros sobre ela.
+
+    Mapeie o adversário como parte interessada. A sua análise de risco muda de qualidade.
+
 ---
 
 ## Cláusula 5 — Liderança
@@ -67,6 +78,15 @@ A cláusula 5 tem três subitens que formam uma cadeia. Sem o primeiro, os outro
     A empresa copia uma Política genérica da internet.
 
     A Política precisa espelhar a identidade da organização: a missão, os valores e os objetivos reais de segurança. Uma cópia genérica não sobrevive à primeira pergunta do auditor sobre como ela foi elaborada.
+
+!!! example "A independência do auditor tem um limite estrutural"
+    O organismo certificador é contratado e pago pela empresa que ele audita.
+
+    Isso não invalida a certificação. Mas explica por que a qualidade da auditoria varia tanto entre organismos e entre auditores.
+
+    A liderança decide o que a organização quer de fato: o certificado na parede ou o SGSI que opera.
+
+    Nenhum auditor decide isso por ela.
 
 ---
 
@@ -95,6 +115,15 @@ O processo de avaliação precisa cumprir quatro tarefas:
 
     A Declaração de Aplicabilidade com justificativa para cada inclusão e cada exclusão.
 
+!!! example "Metade da cláusula 6.1.1 costuma ficar em branco"
+    O título da cláusula é "ações para tratar riscos **e oportunidades**".
+
+    Quase todo SGSI documenta os riscos e ignora as oportunidades. Isso é meia cláusula atendida.
+
+    Existe ainda uma tensão pouco discutida entre praticantes. A governança do SGSI é estável e muda pouco. Os riscos e os controles mudam o tempo todo.
+
+    Revisar os dois no mesmo ritmo produz um de dois defeitos: governança instável ou controles desatualizados. Use dois relógios diferentes.
+
 ---
 
 ## Cláusula 7 — Apoio
@@ -118,6 +147,15 @@ Um bom plano de riscos não funciona sem recursos, pessoas capacitadas e comunic
     A cláusula 7.4 alcança também os terceiros.
 
     Fornecedores, prestadores e parceiros precisam conhecer as suas obrigações de segurança. Um parceiro que não conhece essas obrigações vira porta de entrada de incidente.
+
+!!! example "Confira a cláusula citada na não conformidade"
+    A ISO 27001:2022 não tem cláusula 7.6. A cláusula 7 termina em 7.5.3.
+
+    Não conformidade levantada contra cláusula inexistente acontece na prática.
+
+    Você pode contestar uma não conformidade mal fundamentada. Peça ao auditor o texto exato do requisito que a organização não atendeu.
+
+    Um auditor competente entrega esse texto sem reclamar.
 
 ---
 
@@ -162,6 +200,15 @@ As três se conectam. O monitoramento alimenta a auditoria interna com dados. A 
 
     [O erro 06 explica as três formas aceitas de resolver isso](oito-erros.md).
 
+!!! example "“Registrado” não significa “gravado”"
+    A norma pede informação documentada. Ela não pede áudio nem vídeo.
+
+    Gravar a entrevista de auditoria é uma escolha, não um requisito. O IAF publica regras próprias sobre essa prática.
+
+    Antes de gravar qualquer entrevista, resolva três pontos: o consentimento do entrevistado, o local de guarda do arquivo e o prazo de retenção.
+
+    Um detalhe curioso: a expressão "análise crítica pela direção" não tem definição formal na norma. Ela pode significar uma análise feita pela direção ou uma análise da direção. O texto é ambíguo.
+
 ---
 
 ## Cláusula 10 — Melhoria
@@ -185,6 +232,19 @@ As entradas do processo de melhoria vêm das cláusulas anteriores: os indicador
 
     Ação executada não é ação eficaz.
 
+!!! example "A pergunta que vem antes de aceitar uma não conformidade"
+    Caso real de discussão entre praticantes: a unidade dentro do escopo não realizou o simulado de incêndio anual.
+
+    A empresa precisa decidir se isso é não conformidade do SGSI.
+
+    Profissionais experientes divergem por completo sobre esse caso. Uns dizem que sim. Outros dizem que o assunto nem pertence ao SGSI.
+
+    A resposta não está na gravidade do achado. Ela está na sua Declaração de Aplicabilidade.
+
+    Se o controle não está na Declaração de Aplicabilidade e não trata risco de informação, ele não gera não conformidade do seu SGSI.
+
+    Cumprir a lei de segurança contra incêndio é obrigação da empresa. Isso não coloca o assunto dentro do SGSI de forma automática.
+
 ---
 
 ## O ciclo completo
@@ -202,7 +262,7 @@ O SGSI que para no "Fazer" é o SGSI que passa no Estágio 2 e reprova na manute
 
 ---
 
-## Quer o passo a passo completo?
+## O passo a passo completo
 
 Este panorama mostra o mapa. Ele não mostra o caminho.
 
