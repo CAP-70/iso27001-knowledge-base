@@ -1,7 +1,7 @@
 # Contato
 
 Obrigado pela visita 👋  
-Meu objetivo é **tirar a complexidade da ISO/IEC 27001**: desde a definição de escopo e riscos até **SoA (Declaração de Aplicabildiade**, **implementação de controles** e **auditorias** (interna e pré-certificação).
+Meu objetivo é **tirar a complexidade da ISO/IEC 27001**: desde a definição de escopo e riscos até o **SoA (Declaração de Aplicabilidade)**, a **implementação de controles** e as **auditorias** (interna e de pré-certificação).
 
 ## Como posso ajudar
 - **Implementação ISO 27001 do zero** (escopo, partes interessadas, avaliação de risco, objetivos, SoA e controles do Anexo A).
@@ -10,7 +10,7 @@ Meu objetivo é **tirar a complexidade da ISO/IEC 27001**: desde a definição d
 - **Auditoria interna** e **pré-auditoria (simulada)** antes do organismo certificador.
 - **Suporte técnico** aos controles (logs/monitoramento, hardening, gestão de vulnerabilidades, nuvem).
 
-## Como funciona 
+## Como funciona
 1. **Contato** pelo formulário abaixo.  
 2. **Chamada de diagnóstico (30–45 min)** para entender contexto, escopo e prazos.  
 3. **Proposta** com atividades, entregáveis e cronograma.  
@@ -25,10 +25,13 @@ Meu objetivo é **tirar a complexidade da ISO/IEC 27001**: desde a definição d
 - **Prazo desejado** e **restrições** (ex.: auditoria externa marcada).  
 - **Escopo inicial** (processos, sistemas críticos, unidades).
 
-!!! Nota de "Privacidade"
+!!! tip "Antes de enviar"
+    A página [Oito erros que reprovam um SGSI na auditoria](iso27001/oito-erros.md) cobre as dúvidas mais frequentes. Vale a leitura de cinco minutos antes da nossa conversa.
+
+!!! note "Privacidade"
     Seu e-mail **não será exposto no site**. Os dados enviados são usados **somente** para responder ao seu contato.
 
---- 
+---
 
 ## Envie sua mensagem
 
