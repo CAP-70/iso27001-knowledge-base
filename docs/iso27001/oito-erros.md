@@ -1,8 +1,8 @@
 # Oito erros que reprovam um SGSI na auditoria
 
-Estes oito erros aparecem na maioria dos projetos de ISO/IEC 27001. Cada erro indica a cláusula que o auditor aplica.
+Estes oito erros aparecem na maioria dos projetos de ISO/IEC 27001. A sigla SGSI significa Sistema de Gestão de Segurança da Informação. Cada erro indica a cláusula que o auditor aplica.
 
-A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manutenção. Ali o auditor deixa de examinar apenas documentos. Ele passa a pedir a evidência de que o sistema opera.
+A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manutenção. Ali o auditor deixa de examinar apenas documentos. Ele passa a pedir a evidência de que o SGSI opera.
 
 ## Resumo
 
@@ -10,12 +10,12 @@ A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manut
 |---|---|---|
 | 01 | A empresa acredita que o escopo precisa cobrir toda a organização | 4.3 |
 | 02 | A empresa trata o Anexo A como uma lista obrigatória | 6.1.3 |
-| 03 | A empresa constrói um sistema conforme e sem valor | 6.1.2, 9.1, 10.2 |
+| 03 | A empresa constrói um SGSI conforme e sem valor | 6.1.2, 9.1, 10.2 |
 | 04 | A empresa aceita a quase-conformidade gerada por IA | 7.2 |
 | 05 | A empresa confunde volume de documentos com maturidade | 7.5.1 |
 | 06 | A empresa acredita que a cláusula 9.2 exige um departamento | 9.2.2 |
 | 07 | A equipe discute nomenclatura em vez de requisito | — |
-| 08 | A empresa muda a infraestrutura sem atualizar o sistema | 6.3, 8.1 |
+| 08 | A empresa muda a infraestrutura sem atualizar o SGSI | 6.3, 8.1 |
 
 ---
 
@@ -42,9 +42,9 @@ A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manut
     3. As interfaces e as dependências com outras organizações.
 
 !!! warning "A armadilha"
-    O escopo do sistema e o escopo do certificado são coisas diferentes.
+    O escopo do SGSI e o escopo do certificado são coisas diferentes.
 
-    A cláusula 4.3 trata do sistema que você construiu.
+    A cláusula 4.3 trata do SGSI que você construiu.
 
     O certificado exibe o que o organismo certificador avaliou.
 
@@ -86,7 +86,7 @@ A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manut
 
 ---
 
-## 03 — A empresa constrói um sistema conforme e sem valor
+## 03 — A empresa constrói um SGSI conforme e sem valor
 
 !!! danger "Sintoma"
     A empresa agrupa todos os riscos em um único item e aceita esse item.
@@ -95,17 +95,17 @@ A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manut
 
     Ela escreve os documentos obrigatórios com três frases.
 
-    Esse sistema passa no Estágio 2.
+    Esse SGSI passa no Estágio 2.
 
 !!! info "O que falha — cláusulas 6.1.2 c), 9.1 e 10.2"
-    A auditoria de manutenção reprova esse sistema.
+    A auditoria de manutenção reprova esse SGSI.
 
     O auditor pede a evidência do tratamento de risco, do monitoramento e da melhoria.
 
     A aceitação de risco precisa ser coerente com o contexto e com as obrigações legais.
 
 !!! success "O que fazer"
-    Construa um sistema que opera de fato.
+    Construa um SGSI que opera de fato.
 
     O organismo certificador pode recusar a auditoria quando identifica má-fé.
 
@@ -146,7 +146,7 @@ A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manut
     A segurança real não melhora.
 
 !!! info "A norma diz — cláusula 7.5.1 b)"
-    A norma exige a informação documentada necessária para a eficácia do sistema.
+    A norma exige a informação documentada necessária para a eficácia do SGSI.
 
     Ela não exige volume.
 
@@ -176,7 +176,7 @@ A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manut
 !!! success "O que fazer"
     Escolha uma destas três opções:
 
-    1. Um funcionário sem responsabilidade sobre o sistema.
+    1. Um funcionário sem responsabilidade sobre o SGSI.
     2. Um auditor par de outra área.
     3. Um consultor externo independente.
 
@@ -213,17 +213,17 @@ A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manut
 
 ---
 
-## 08 — A empresa muda a infraestrutura sem atualizar o sistema
+## 08 — A empresa muda a infraestrutura sem atualizar o SGSI
 
 !!! danger "Sintoma"
     A empresa troca o datacenter ou migra para a nuvem.
 
     Ou ela inverte o ambiente primário e o ambiente de contingência.
 
-    Ninguém atualiza o sistema de gestão.
+    Ninguém atualiza o SGSI.
 
 !!! warning "Como o auditor lê — cláusulas 6.3, 8.1 e 8.2"
-    O auditor classifica essa troca como uma mudança significativa do sistema.
+    O auditor classifica essa troca como uma mudança significativa do SGSI.
 
     Os riscos mudam. Os controles de fornecedor mudam.
 
@@ -247,7 +247,7 @@ A maioria dos projetos não falha no Estágio 2. Ela falha na auditoria de manut
 
 Você reconheceu algum destes erros no seu projeto?
 
-A chamada de diagnóstico dura de 30 a 45 minutos e não tem custo. Você recebe os três pontos que mais reprovam o seu sistema hoje.
+A chamada de diagnóstico dura de 30 a 45 minutos e não tem custo. Você recebe os três pontos que mais reprovam o seu SGSI hoje.
 
 [Fale comigo pela página de Contato](../contato.md){ .md-button .md-button--primary }
 
