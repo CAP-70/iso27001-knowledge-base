@@ -65,7 +65,7 @@ Resultado: **mais ataques, mais rápido, mais profissionais**.
 > **Resumo:** segurança não é novidade; o **incentivo do atacante** é.  
 > A resposta continua sendo **governança + controles sólidos + evidências confiáveis** — é isso que a ISO 27001 pede desde sempre.
 
-👉 Precisa de apoio para organizar **risco**, **SoA** e **evidências**? Fale comigo pela **[página de Contato](/contato/)**.
+👉 Precisa de apoio para organizar **risco**, **SoA** e **evidências**? Fale comigo pela **[página de Contato](../contato.md)**.
 
 <div class="tl">
 
