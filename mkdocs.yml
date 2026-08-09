@@ -36,6 +36,7 @@ nav:
       - posts/boas-vindas.md
   - ISO 27001:
       - Visão geral: iso27001/overview.md
+      - Oito erros que reprovam um SGSI: iso27001/oito-erros.md
       - Auditoria: iso27001/auditoria.md
       - Controles:
           - A.5.16 – Monitoramento de Atividades: iso27001/controles/A.5.16-monitoramento.md
