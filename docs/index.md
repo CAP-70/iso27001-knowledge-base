@@ -1,6 +1,6 @@
 # ISO/IEC 27001 sem complicação
 
-Este site reúne conteúdo prático sobre o SGSI. A sigla SGSI significa Sistema de Gestão de Segurança da Informação.
+Este site reúne conteúdo prático sobre o SGSI (Sistema de Gestão de Segurança da Informação).
 
 Aqui você aprende a implementar e a auditar um SGSI que funciona. O conteúdo cobre quatro etapas: a análise de risco, a Declaração de Aplicabilidade, os controles do Anexo A e as evidências que passam em auditoria.
 
